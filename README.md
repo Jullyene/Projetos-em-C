@@ -4,4 +4,4 @@
 [Estruturas Condicionais em C.pdf](https://github.com/Jullyene/Projetos-em-C/files/15411667/Estruturas.Condicionais.em.C.pdf)
 
 ### Importante- Operadores em C
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c811d057-a5a8-417f-beab-3d1bdab11312/8d6d4f95-99c3-478c-9025-6ca5bbc102e5/Untitled.png)
+![Untitled](https://github.com/Jullyene/Projetos-em-C/assets/160196619/739bb9ed-d00b-4242-9c3c-bc2950310562)
